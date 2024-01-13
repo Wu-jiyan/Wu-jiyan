@@ -27,7 +27,7 @@ I'm a student from Shanghai, China. Welcome to my GitHub profile! 😊
 
 ## 🌐 Websites
 
-- [My Nav Site](httos://wujiyan.cc/)
+- [My Nav Site](https://wujiyan.cc/)
 - [My jrrp Site](https://jrrp.wujiyan.cc/)
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's collaborate and build amazing things together. 🚀
